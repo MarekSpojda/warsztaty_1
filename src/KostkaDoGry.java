@@ -79,4 +79,3 @@ public class KostkaDoGry {
         return random.nextInt(diceSize) + 1;
     }
 }
-
